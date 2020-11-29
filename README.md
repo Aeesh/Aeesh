@@ -13,19 +13,8 @@
 </a>  
 
 <!--- My name is ##Opaluwa Aisha##, and --->
-&#x263A; I am a Front-end developer.
 
-Currently, I am currently a Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer .
-
-Solving problems with my software development skills is what moves me and keeps me in a constant search for knowledge.
-
-I have proficiency in JavaScript, HTML, CSS and packages / libraries such as:
-- ReactJS
-- Bootstrap
-
-The tools come and go, but some concepts are kept, that's where I keep my efforts.
-
-I love to talk about algorithm, automations, design patterns, code patterns, and things that make me a better developer.
+A FrontEnd developer passionate about translating designs into optimized web applications. Proficient in HTML, CSS, Javascript, Bootstrap and Git Version Control System. I am currently undergoing a software development program with TIIDElab. Also a finalist of Computer Engineering department at the Federal University of Technology, Minna. I have an excellent problem solving skill and loves to read and play volleyball with my free time.
 
 ### Get in Touch
 * Portfolio: [aishaopaluwa.netlify.app](https://aishaopaluwa.netlify.app/)
