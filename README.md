@@ -18,4 +18,4 @@ A FrontEnd developer passionate about translating designs into optimized web app
 ### Get in Touch
 * Portfolio: [aishaopaluwa.netlify.app](https://aishaopaluwa.netlify.app/)
 * LinkedIn: [Opaluwa Aisha](http://linkedin.com/in/aisha-opaluwa-adam-7287b11b4)
-*
+
