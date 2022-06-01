@@ -13,7 +13,13 @@
 
 <!--- My name is ##Opaluwa Aisha##, and --->
 
-A FrontEnd developer passionate about translating designs into optimized web applications. Proficient in HTML, CSS, Javascript, Bootstrap and Git Version Control System. I am currently undergoing a software development program with TIIDElab. Also a finalist of Computer Engineering department at the Federal University of Technology, Minna. I have an excellent problem solving skill and loves to read and play volleyball with my free time.
+Hello! 
+
+I am Opaluwa Aisha Adam, a Frontend Developer passionate about translating designs into optimized web applications. Proficient in HTML, CSS, Javascript, Bootstrap, Material-UI, Git Version Control System, ReactJs and redux.
+
+I also have experience in integrating with smart contracts to enable higher-level decentralized blockchain applications.
+
+I enjoy collaborating in a team to bring lasting solutions to problems and loves to read and play volleyball with my free time.
 
 ### Get in Touch
 * Portfolio: [aishaopaluwa.netlify.app](https://aishaopaluwa.netlify.app/)
