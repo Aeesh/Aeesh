@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/aisha-opaluwa-7287b11b4)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adamaisha352@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://aishaopaluwa.netlify.app/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aeesh)
 
 ---
