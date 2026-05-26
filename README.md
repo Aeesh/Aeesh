@@ -28,6 +28,8 @@ Currently a Research Assistant at CMU (DFT simulations on wolframite materials, 
 
 | | Project | What it is |
 |---|---|---|
+| 🪶 | [quilltale](https://github.com/Aeesh/quilltale) | A persistent AI RPG with agent simulation, per-NPC episodic memory, and validated world state |
+| 🪑 | [ scireason-bench](https://github.com/Aeesh/scireason-bench) | A Multi-Model Evaluation Benchmark for Scientific Reasoning. |
 | 🔍 | [paper-qa-system](https://github.com/Aeesh/paper-qa-system) | RAG pipeline with a hand-crafted evaluation dataset and failure analysis by type |
 | 🧠 | [abstract-classifier](https://github.com/Aeesh/abstract-classifier) | DistilBERT fine-tuned on 28k arXiv abstracts · Captum explainability · HuggingFace Hub |
 
